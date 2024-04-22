@@ -1,0 +1,5 @@
+PyTelegramBotApi
+ultralytics
+matplotlib
+numpy
+torch
