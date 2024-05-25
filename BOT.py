@@ -78,7 +78,7 @@ def handle_identifing(message):
         bot.reply_to(message, "Ошибка при выводе изображения сравнения подписей")
     
 
-
+#gradio
 
 @bot.message_handler(commands=['identify'])
 def identify_signature(message):

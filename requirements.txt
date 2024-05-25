@@ -3,3 +3,5 @@ ultralytics
 matplotlib
 numpy
 torch
+flask
+gradio
